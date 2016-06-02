@@ -8,9 +8,14 @@
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
 <html>
   <head>
-    <title>$Title$</title>
+    <title>Http On Android</title>
   </head>
+  <%--<%--%>
+      <%--double longitude = Double.parseDouble(request.getParameter("126.766383"));--%>
+      <%--double latitude = Double.parseDouble(request.getParameter("45.741045"));--%>
+      <%--out.print("longitude:" + longitude + "\n"+"latitude:" + latitude);--%>
+  <%--%>--%>
   <body>
-hello world
+    Status
   </body>
 </html>

@@ -9,6 +9,10 @@
         </element>
         <element id="directory" name="lib">
           <element id="library" level="project" name="javax.json.processing-1.0" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/mysql-connector-java-5.1.39-bin.jar" />
+          <element id="file-copy" path="$PROJECT_DIR$/lib/javax.json.jar" />
+          <element id="library" level="project" name="fastjson-1.2.9" />
+          <element id="library" level="project" name="baidumapapi_v3_1_0" />
         </element>
       </element>
     </root>
